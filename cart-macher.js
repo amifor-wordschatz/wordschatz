@@ -29,7 +29,7 @@ const makeTargetLines=function(cards, size)
 		
 		obverseLines.push(targetLine1);
 		
-		targetLine2=cardLine.map((c)=>c[1]);		
+		targetLine2=cardLine.map((c)=>c[1]).reverse();		
 		while(targetLine2.length<size)
 			targetLine2.splice(0, 0, '');
 		reversLines.push(targetLine2);
