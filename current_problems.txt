@@ -1,0 +1,51 @@
+sich ärgern
+überraschen 
+enttäuscht
+
+sich nicht trauen
+
+verb+prep:
+
+sich ärgern			über	to be annoyed about			Accusative
+sich freuen			auf		to look forward to			Accusative
+sich freuen			über	to be pleased about			Accusative
+lachen				über	to laugh about				Accusative
+sich entscheiden	für		to decide on				Accusative
+sich entschuldigen	bei		to apologize to				Dative
+sich entschuldigen	für		to apologize for			Accusative
+sich beschweren		bei		to complain to sb.			Dative
+sich beschweren		über	to complain about sth.		Accusative
+sich bedanken		bei		to thank sb.				Dative
+sich bedanken		für		to thank for sth.			Accusative
+träumen				von		to dream of / about			Dative
+sich verlieben		in		to fall in love with		Accusative
+achten				auf		to pay attention to			Accusative
+sich kümmern		um		to look after sb. / sth.	Accusative
+sich interessieren	für		to be interested in			Accusative
+sorgen				für		to look after sb. / sth.	Accusative
+schimpfen			über	to complain about			Accusative
+
+glauben			an		to believe in			Accusative
+denken			an		to think of				Accusative
+nachdenken		über	to think about			Accusative
+erinnern		an		to remind about			Accusative
+sich erinnern	an		to remember				Accusative
+
+reden			mit		to talk with		Dative
+reden			über	to talk about		Accusative
+fragen			nach	to ask about		Dative
+sprechen		mit		to speak with		Dative
+sprechen		über	to speak about		Accusative
+unterrichten	über	to teach about		Accusative
+diskutieren		über	to discuss sth.		Accusative
+sich streiten	mit		to argue with sb.	Dative
+sich streiten	über	to argue about		Accusative
+
+sich treffen	mit		to meet up with			Dative
+tun				für		to do for				Accusative
+vermieten		an		to rent to				Accusative
+arbeiten		an		to work on				Dative
+arbeiten		bei		to work for (a company)	Dative
+
+http://www.vistawide.com/german/grammar/german_verb_prep_idioms.htm
+http://deutsch.ie/german-grammar/german-exercises/german-verbs/game-verbs-with-prepositions/
