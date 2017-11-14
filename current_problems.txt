@@ -1,8 +1,3 @@
-sich ärgern
-überraschen 
-enttäuscht
-
-sich nicht trauen
 
 verb+prep:
 
@@ -24,6 +19,14 @@ sich kümmern		um		to look after sb. / sth.	Accusative
 sich interessieren	für		to be interested in			Accusative
 sorgen				für		to look after sb. / sth.	Accusative
 schimpfen			über	to complain about			Accusative
+sich aufregen		über	to get upset / angry about	Accusative
+
+glücklich			über								accusative
+traurig 			über								accusative
+überrascht 			über								accusative
+wütend  			auf									accusative
+genervt				von									Dativ
+enttäuscht			von									Dativ
 
 glauben			an		to believe in			Accusative
 denken			an		to think of				Accusative
@@ -46,6 +49,10 @@ tun				für		to do for				Accusative
 vermieten		an		to rent to				Accusative
 arbeiten		an		to work on				Dative
 arbeiten		bei		to work for (a company)	Dative
+
+machen D Spaß, Angst,...
+ist D egal
+
 
 http://www.vistawide.com/german/grammar/german_verb_prep_idioms.htm
 http://deutsch.ie/german-grammar/german-exercises/german-verbs/game-verbs-with-prepositions/
