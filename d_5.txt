@@ -26,11 +26,11 @@ der Empfänger - получатель (платежа)
 der Abbruch - внезпное прекращение (esc банкомата)
 das Gehalt - жалование
 die PIN eingeben/eintippen - вводить пин
-Geld überweisen -
-Rechnungen bezahlen - 
-Kontoauszuge drücken 
-einen Kredit aufnehmen
-in Raten zahlen 
+Geld überweisen - ...
+Rechnungen bezahlen - ...
+Kontoauszuge drücken  - ...
+einen Kredit aufnehmen - ...
+in Raten zahlen - ...
 schieben - двигать, толкать
 geschieden - разведенный
 abhauen - убегать; отсекать, отрубать
@@ -74,7 +74,7 @@ der Umstand - обстоятельство, ситуация, условия ж�
 inbegriffen (Ein Cocktail am ersten Abend ist im Preis inbegriffen.) - включительно
 abfahren (!abcommen, Wo fährt der Zug ab?) - отъезжать, отправляться
 umsteigen - пересаживаться
-das Gleis (Auf Gleisen fahren Züge) - жд путьl
+das Gleis (Auf Gleisen fahren Züge) - жд путь
 vermuten - предполагать, догадываться
 der Bahnsteig - платформа, перрон
 entwerten - компостировать билет
@@ -104,30 +104,3 @@ Es reicht mir! - довольно!
 versprechen + D - обещать
 vertrauen + D - доверять, верить
 lügen - врать
-die Furcht (Der Fisch war groß. Aber er hat fürchterlich geschmeckt.) - страх, опасение
-vorhaben - намереваться, планировать
-nentgeltlich - бесплатно
-der Kassenwart - treasurer, заведущий кассой
-witzig - остроумно, смешно
-herunterladen - скачивать
-die Gabel - вилка
-der Löffel - ложка
-das Besteck - столовый прибор
-das Gewürz - приправа
-die Geige - скрипка
-scharf (das Pfeffer) - острый, резкий, едкий
-der Imbiß - еда наскоро
-die Nuß - орех
-übrigens (Das Dressing​​​​​​ zum Salat macht übrigens auch dick!) - впрочем
-die Brotzeit - закуска
-zapfen (Und jetzt will ich ein kaltes Bier, das frisch gezapft ist!) - цедить, наливать
-belegen (Brot mit Wurst belegen) - покрывать, накрывать
-der Frosch - лягушка
-treu (Der Hund, der ein treues Haustier sein kann...) - верный, преданный
-bestehen aus („Rheinischer Sauerbraten“ ein traditionelles Gericht, das lange aus Pferdefleisch bestanden hat)- состоять из
-ehrlich (ehrlich währt am längsten) - честный, порядочный
-köstlich - изысканный, лакомый 
-die Ameise - муравьи
-beweisen (Deutsche essen doch sowieso immer das Gleiche. Ich beweise es Ihnen.) - доказывать, аргументировать
-einverstanden ("Wenn Sie verlieren, müssen Sie sich noch einmal mit mir treffen." "Einverstanden!") - согласен, идет!
-drüben - там, по той стороне
